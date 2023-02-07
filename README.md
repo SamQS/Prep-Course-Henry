@@ -1,2 +1,2 @@
 # Prep-Course-Henry
-Este es u repositorio ded Prueba de Henry
+Este es un repositorio de Prueba de Henry
